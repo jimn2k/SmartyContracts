@@ -10,8 +10,16 @@ Pre-print resources have been available online for years, such as the University
 
 Allowing for flexibility of cloud and locally-hosted publishing software may present significant obstacles towards full decentralization.
 
+Gas fee networks are necessary for the storage costs, which may or may not confer advantage over traditional academic research digital object storage.
+
 ## Abstract
 
 `contracts/Abstract.sol`
 
-Abstract provides the base class for a research paper
+Abstract provides the base class for a research paper.
+
+## Preprint Submission
+
+`dapps/preprint-submission`
+
+This is the entry point for the user, where digital objects can be submitted for consideration.
